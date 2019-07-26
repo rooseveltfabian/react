@@ -4,6 +4,13 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
+/* let imagen = React.createElement('img',{
+    src: 'https://files.rcnradio.com/public/styles/image_834x569/public/2019-05/1526420779-dragon-ball.jpg?itok=nzMfGJjZ'
+    
+}) */
+
+/* ReactDOM.render(imagen, document.getElementById('root')); */
+
 ReactDOM.render(<App />, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
